@@ -22,7 +22,6 @@ venv_gpu
 .venv
 
 # IDEs and OS files
-.agent/
 .vscode/
 .idea/
 .DS_Store
